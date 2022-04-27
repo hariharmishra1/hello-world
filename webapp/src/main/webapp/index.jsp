@@ -5,7 +5,6 @@
 <title>Welcome Login Form</title>
 </head>
 <body>
- <body style="background-color:yellow;">
 <form action="custom.jsp" method="post">
 <table style="width: 50%">
 <tr>

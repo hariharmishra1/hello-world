@@ -27,7 +27,9 @@ pageEncoding="ISO-8859-1"%>
 <html>
 <body>
 <%
+<br>
 String site = "Welcome To My Domain";
+</br>
 out.print(site);
 %>
 </body>

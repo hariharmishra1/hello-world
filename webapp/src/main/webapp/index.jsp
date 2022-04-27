@@ -5,8 +5,7 @@
 <title>Welcome Login Form</title>
 </head>
 <body>
-<h2> WELCOME TO HARIHAR'S DEVOPS ENVIRONMENT </h2>
- <body style="background-color:grey;">
+ <body style="background-color:yellow;">
 <form action="custom.jsp" method="post">
 <table style="width: 50%">
 <tr>
